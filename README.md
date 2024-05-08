@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam-rudra2003&label=Profile%20views&color=0e75b6&style=flat" alt="rupam-rudra2003" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS etc.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript etc.**
 
 - 👨‍💻 All of my projects are available at [#portfolio_link](#portfolio_link)
 
