@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript etc.**
 
-- 👨‍💻 All of my projects are available at [#portfolio_link](#portfolio_link)
+- 👨‍💻 All of my projects are available at [[#portfolio_link]](https://rupam-rudra2003.github.io/portfolio.github.io/)(#portfolio_link)
 
 - 💬 Ask me about **C, Python, Java, DBMS**
 
