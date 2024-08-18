@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript etc.**
 
-- 👨‍💻 All of my projects are available at [[#portfolio_link]](https://rupam-rudra2003.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rupam-rudra2003.github.io/portfolio.github.io/)
 
 - 💬 Ask me about **C, Python, Java, DBMS**
 
 - 📫 How to reach me **rupamrudra5@gmail.com**
 
-- 📄 Know about my experiences [#resume_link](#resume_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18Ib0PTgreN6NjhiYlKWoxSg6FoutDoIl/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
 
