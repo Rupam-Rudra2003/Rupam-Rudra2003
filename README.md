@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rupam-rudra2003.github.io/portfolio.github.io/)
 
-- 💬 Ask me about **C, Python, Java, DBMS**
+- 💬 Ask me about **C, Python, Java, MySQL, Django, Bootstrap**
 
 - 📫 How to reach me **rupamrudra5@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18Ib0PTgreN6NjhiYlKWoxSg6FoutDoIl/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ag720f6GC9kUAtRts74sDq1flBdBT6f5/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
 
