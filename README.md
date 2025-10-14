@@ -84,17 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupam-rudra2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=rupam-rudra2003&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
----
-
-<h3 align="center">🔥 GitHub Streaks</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rupam-rudra2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupam-rudra2003&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
